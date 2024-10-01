@@ -1,4 +1,4 @@
-# ChinaDNS Next Generation for OpenWrt
+# ChinaDNS Next for OpenWrt
 
 ## 简介
 
